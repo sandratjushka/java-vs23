@@ -2,7 +2,7 @@ package week8;
 
 import java.util.Scanner;
 
-public class Main {
+public class Reverse {
 
     public static String reverse(String text) {
         String reversed = "";
